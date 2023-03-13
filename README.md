@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anas Ansari</h1>
-<h3 align="center">A passionate frontend developer from India,I have always been interested in coding. My favourite subject was computer science. And I am currently doing Bachelor's in computer application (BCA).I consider outcomes in every problem. I am a self learning MERN Stack Development from online courses and YouTube. I am currently working on the cool project in React Js, Node JS etc...</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anas-ansari-720bb9228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-ansari" height="30" width="40" /></a>
-</p>
 
 <h1 align="center">Hi 👋, I'm Anas Ansari</h1>
-<h3 align="center">A passionate React JS, Frontend developer from India</h3>
+<h3 align="center">A passionate React JS, Frontend developer from India.As a React JS developer, my passion lies in crafting elegant and efficient solutions to complex problems. With a keen eye for detail and a deep understanding of the React ecosystem, 
+I have been interested in coding for a long time, and my favorite subject was computer science. I am currently doing a Bachelor's degree in this field of study—and outcomes are important to me whenever I solve problems.
+I am self-taught in MERN Stack Development. I've learned programming by taking online courses and watching YouTube videos. Right now, I'm working on a cool project that uses React JS and Node JS
+I have successfully developed and launched multiple projects across industries.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialanas&label=Profile%20views&color=0e75b6&style=flat" alt="officialanas" /> </p>
 
